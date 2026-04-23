@@ -1,4 +1,4 @@
-//Thu Apr 23 2026 02:46:48 GMT+0000 (Coordinated Universal Time)
+//Thu Apr 23 2026 02:50:29 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const crypto = require("crypto");
